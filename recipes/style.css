@@ -1,0 +1,28 @@
+/* style.css */
+
+h1
+{
+  background-color: yellow;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2,
+h3
+{
+  font-size: 30px;
+  background-color: yellow;
+}
+
+
+div
+{
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.bold
+{
+  font-weight: bold;
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

@@ -1,0 +1,29 @@
+/* style.css */
+.chicken, 
+.beef, 
+.tomato
+{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: 22px;
+}
+
+
+.chicken
+{
+  background-color: yellow;
+}
+
+.beef
+{
+  background-color: greenyellow;
+}
+
+.tomato
+{
+  background-color: orange;
+}
+
+h1
+{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
